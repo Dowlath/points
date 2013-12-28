@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DistanceFormula' target in the 'DistanceFormula' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
